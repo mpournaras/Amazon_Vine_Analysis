@@ -27,7 +27,7 @@ To consider:
 * Only reviews with 20 or more votes where considered for the rest of the analysis leaving 18,739 reviews. 
 * Helpful votes were defined as being 50% or greater than the total votes narrowing the list to 18,155 reviews.     
  
-![Pic 2](https://github.com/mpournaras/Amazon_Vine_Analysis/blob/main/resources/vine_del3.png?raw=true)  
+![Pic 2](https://github.com/mpournaras/Amazon_Vine_Analysis/blob/main/resources/vine_del3.PNG)  
 
 **136** Vine reviews, **18,019** non-Vine reviews
 
